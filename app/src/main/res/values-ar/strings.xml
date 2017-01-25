@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الاخبار</string>
+    <string name="settings">الاعدادات</string>
+    <string name="title_activity_details">التفاصيل</string>
+    <string name="online">اونلاين</string>
+    <string name="SystemLanguage">النظام</string>
+    <string name="favourite">المفضله</string>
+    <string name="refresh">تحديث</string>
+    <string name="connection_failed">فشل الاتصال</string>
+    <string name="nodata">لا يوجد بيانات</string>
+    <string name="homepage">الصفحه الرئيسيه</string>
+    <string name="sucess">تم</string>
+    <string name="failed">فشل</string>
+    <string name="loadingdata"> تحميل البيانات</string>
+    <string name="plwait">انتظر من فضلك</string>
+    <string name="openwifi">تشغيل نقطه الاتصال</string>
+    <string name="connecting">جاري التوصيل</string>
+    <string name="language">اللغه</string>
+    <string name="autoconnect">الاتصال الالي</string>
+    <string name="guide">تفعيل التوضيح</string>
+    <string name="sharing">"مشاركه عبر"</string>
+    <string name="alert_title">"التوضيح"</string>
+    <string name="alert_message">"اسحب في الاتجاهين لتغير المصدر \n سجل المفضله ليتم الاحتفاظ بها"</string>
+    <string name="explnconnect">"تشغيل نقطه الاتصال في حاله ايقافها والاتصال مع الشبكات المعروفه تلقائيا وتحميل البيانات"</string>
+    <string name="explndialog">"عرض نص الارشاد عند تشغيل التطبيق"</string>
+    <string name="datasaver">"توفير البيانات"</string>
+    <string name="expldatasaver">"عدم تحميل الصفحه الرئيسيه تلقائيا"</string>
+</resources>

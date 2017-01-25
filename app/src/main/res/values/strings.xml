@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="settings">Settings</string>
+    <string name="title_activity_details">Details</string>
+    <string name="online">Online</string>
+    <string name="SystemLanguage">System</string>
+    <string name="favourite">Favourite</string>
+    <string name="refresh">Refresh</string>
+    <string name="connection_failed">Connection Failed</string>
+    <string name="nodata">No Data</string>
+    <string name="homepage">Home Page</string>
+    <string name="sucess">Sucess</string>
+    <string name="failed">Failed</string>
+    <string name="loadingdata">Loading Data</string>
+    <string name="plwait">Please Wait !!!!!</string>
+    <string name="openwifi">Wifi Opened</string>
+    <string name="connecting">Connecting</string>
+    <string name="language">Language</string>
+    <string name="autoconnect">Auto Connect</string>
+    <string name="guide">Guide Dialog</string>
+    <string name="sharing">"Sharing Via</string>
+    <string name="alert_title">"Guide"</string>
+    <string name="alert_message">"Swape To Change Resource \n Select Favourite To Save Offline \n"</string>
+    <string name="explnconnect">"Open WiFi Automatically When Off And Connect To Availble Saved Network To Load Data"</string>
+    <string name="explndialog">"Show Guide Dialog After Opinging Application"</string>
+    <string name="datasaver">"Data Saver"</string>
+    <string name="expldatasaver">"Don't Load HomePage Automatically"</string>
+</resources>

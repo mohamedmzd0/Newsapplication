@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreference
+        android:id="@+id/wifi"
+        android:key="wifi"
+        android:title="@string/autoconnect"
+        android:defaultValue="true"
+        />
+    <PreferenceCategory
+        android:title="@string/explnconnect"
+        />
+
+    <SwitchPreference
+        android:id="@+id/guide"
+        android:key="guide"
+        android:title="@string/guide"
+        android:defaultValue="true"
+        />
+    <PreferenceCategory
+        android:title="@string/explndialog"
+        />
+    <SwitchPreference
+        android:id="@+id/data"
+        android:key="data"
+        android:title="@string/datasaver"
+        android:defaultValue="true"
+        />
+    <PreferenceCategory
+        android:title="@string/expldatasaver"
+        />
+
+</PreferenceScreen>
